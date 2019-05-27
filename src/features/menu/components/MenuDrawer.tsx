@@ -10,7 +10,7 @@ const MenuDrawer: React.FC<DrawerItemsProps> = ({ navigation }) => {
   return (
     <ScrollView>
       <SafeAreaView forceInset={{ top: 'always', horizontal: 'never' }}>
-        <Drawer.Section title="My App">
+        <Drawer.Section title="Garage Fit">
           <Drawer.Item
             label="Home"
             active={navigation.state.index === getRouteIndex('Home')}

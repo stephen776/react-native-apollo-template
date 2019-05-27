@@ -1,4 +1,4 @@
-This is a base React Native template utilizing
+Garagefit app
 
 - Typescript
 - Apollo-Boost
