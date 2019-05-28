@@ -1,4 +1,4 @@
-package com.reactnativetemplate;
+package com.garagefit;
 
 import android.app.Application;
 
